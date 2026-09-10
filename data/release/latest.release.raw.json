@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 4454974,
       "digest": "sha256:0c44689fa48737c4ca16ced14621bf93c3072f5fc53e26652e22ba0087db5509",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2025-07-21T18:26:06Z",
       "updated_at": "2025-07-21T18:26:08Z",
       "browser_download_url": "https://github.com/BaconIsAVeg/outside/releases/download/v0.5.0/outside-0.5.0-1.aarch64.rpm"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4091950,
       "digest": "sha256:28568c09a05ba9b254491d12531fee9237e7d8c081e01281cf0cfaec43c388ad",
-      "download_count": 285,
+      "download_count": 286,
       "created_at": "2025-07-21T18:26:06Z",
       "updated_at": "2025-07-21T18:26:08Z",
       "browser_download_url": "https://github.com/BaconIsAVeg/outside/releases/download/v0.5.0/outside-0.5.0_Linux_x86_64.tar.gz"

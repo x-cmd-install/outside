@@ -22,7 +22,20 @@ x install outside
 - **Latest**: `v0.5.0` (2025-07-21)
 - **Last commit**: 2026-04-27
 - **Assets in release**: 9
-- **Published**: 2025-07-21T18:26:09Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [outside-0.5.0-1.aarch64.rpm](https://github.com/BaconIsAVeg/outside/releases/download/v0.5.0/outside-0.5.0-1.aarch64.rpm) | 4.2 MiB | `runtime/rpm/aarch64` |
+| [outside-0.5.0-1.x86_64.rpm](https://github.com/BaconIsAVeg/outside/releases/download/v0.5.0/outside-0.5.0-1.x86_64.rpm) | 4.0 MiB | `runtime/rpm/x86_64` |
+| [outside-0.5.0_Linux_arm64.tar.gz](https://github.com/BaconIsAVeg/outside/releases/download/v0.5.0/outside-0.5.0_Linux_arm64.tar.gz) | 4.1 MiB | `native/linux/arm64` |
+| [outside-0.5.0_Linux_x86_64.tar.gz](https://github.com/BaconIsAVeg/outside/releases/download/v0.5.0/outside-0.5.0_Linux_x86_64.tar.gz) | 3.9 MiB | `native/linux/x64` |
+| [outside_0.5.0_aarch64.apk](https://github.com/BaconIsAVeg/outside/releases/download/v0.5.0/outside_0.5.0_aarch64.apk) | 4.2 MiB | `other` |
+| [outside_0.5.0_amd64.deb](https://github.com/BaconIsAVeg/outside/releases/download/v0.5.0/outside_0.5.0_amd64.deb) | 3.9 MiB | `runtime/deb/amd64` |
+| [outside_0.5.0_arm64.deb](https://github.com/BaconIsAVeg/outside/releases/download/v0.5.0/outside_0.5.0_arm64.deb) | 4.1 MiB | `runtime/deb/arm64` |
+| [outside_0.5.0_checksums.txt](https://github.com/BaconIsAVeg/outside/releases/download/v0.5.0/outside_0.5.0_checksums.txt) | 749 B | `other` |
+| [outside_0.5.0_x86_64.apk](https://github.com/BaconIsAVeg/outside/releases/download/v0.5.0/outside_0.5.0_x86_64.apk) | 4.0 MiB | `other` |
 
 ## Popularity
 
@@ -55,8 +68,8 @@ Total: **2,443** lines of code across **31** files in the top 5 languages.
 Install metadata for outside lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `outside` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/outside.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/outside.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:34:40Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:12:18Z._

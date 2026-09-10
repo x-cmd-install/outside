@@ -4,7 +4,7 @@
 
 A multi-purpose weather client for your terminal!
 
-![outside](https://repo.x-cmd.io/outside.svg)
+![outside](https://repo.x-cmd.io/outside.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,20 @@ x install outside
 - **最新版本**: `v0.5.0` (2025-07-21)
 - **最近提交**: 2026-04-27
 - **Release 含资产**: 9 个
-- **发布时间**: 2025-07-21T18:26:09Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [outside-0.5.0-1.aarch64.rpm](https://github.com/BaconIsAVeg/outside/releases/download/v0.5.0/outside-0.5.0-1.aarch64.rpm) | 4.2 MiB | `runtime/rpm/aarch64` |
+| [outside-0.5.0-1.x86_64.rpm](https://github.com/BaconIsAVeg/outside/releases/download/v0.5.0/outside-0.5.0-1.x86_64.rpm) | 4.0 MiB | `runtime/rpm/x86_64` |
+| [outside-0.5.0_Linux_arm64.tar.gz](https://github.com/BaconIsAVeg/outside/releases/download/v0.5.0/outside-0.5.0_Linux_arm64.tar.gz) | 4.1 MiB | `native/linux/arm64` |
+| [outside-0.5.0_Linux_x86_64.tar.gz](https://github.com/BaconIsAVeg/outside/releases/download/v0.5.0/outside-0.5.0_Linux_x86_64.tar.gz) | 3.9 MiB | `native/linux/x64` |
+| [outside_0.5.0_aarch64.apk](https://github.com/BaconIsAVeg/outside/releases/download/v0.5.0/outside_0.5.0_aarch64.apk) | 4.2 MiB | `other` |
+| [outside_0.5.0_amd64.deb](https://github.com/BaconIsAVeg/outside/releases/download/v0.5.0/outside_0.5.0_amd64.deb) | 3.9 MiB | `runtime/deb/amd64` |
+| [outside_0.5.0_arm64.deb](https://github.com/BaconIsAVeg/outside/releases/download/v0.5.0/outside_0.5.0_arm64.deb) | 4.1 MiB | `runtime/deb/arm64` |
+| [outside_0.5.0_checksums.txt](https://github.com/BaconIsAVeg/outside/releases/download/v0.5.0/outside_0.5.0_checksums.txt) | 749 B | `other` |
+| [outside_0.5.0_x86_64.apk](https://github.com/BaconIsAVeg/outside/releases/download/v0.5.0/outside_0.5.0_x86_64.apk) | 4.0 MiB | `other` |
 
 ## 流行度
 
@@ -59,4 +72,4 @@ outside 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:34:40Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:12:18Z._
